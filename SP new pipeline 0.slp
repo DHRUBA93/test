@@ -142,8 +142,8 @@
                                 "value": [
                                     {
                                         "expression": {
-                                            "expression": true,
-                                            "value": "123"
+                                            "expression": false,
+                                            "value": "xyz"
                                         },
                                         "targetPath": {
                                             "value": "$dummy"
