@@ -10,7 +10,7 @@
         },
         "info": {
             "author": {
-                "value": "spodder@amgen.com"
+                "value": "dadhikar@amgen.com"
             },
             "label": {},
             "notes": {
@@ -64,8 +64,8 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "grid_x_int": 7,
-                "grid_y_int": 2,
+                "grid_x_int": 2,
+                "grid_y_int": 1,
                 "index": 2,
                 "input": {},
                 "output": {},
@@ -147,6 +147,15 @@
                                         },
                                         "targetPath": {
                                             "value": "$Lead"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "DNA"
+                                        },
+                                        "targetPath": {
+                                            "value": "$DNA"
                                         }
                                     },
                                     {
